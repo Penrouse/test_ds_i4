@@ -1,0 +1,14 @@
+name: test_ds_i4
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - numpy
+  - scikit-learn
+  - opencv
+  - pip

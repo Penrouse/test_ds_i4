@@ -1,0 +1,13 @@
+# Configuración del proyecto
+paths:
+  raw_data: data/raw
+  processed_data: data/processed
+  model_dir: src/models
+  exports_dir: exports
+
+train:
+  test_size: 0.2
+  random_state: 42
+  batch_size: 32
+  learning_rate: 0.001
+  epochs: 10
