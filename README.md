@@ -2,13 +2,13 @@
 
 🟦 Optimización de Campañas Directas con Analítica Predictiva y Segmentación
 
-🧩 Empresa con múltiples categorías de productos y canales de venta.
+    🧩 Empresa con múltiples categorías de productos y canales de venta.
 
-📉 Campañas anteriores con baja rentabilidad (ROI negativo).
+    📉 Campañas anteriores con baja rentabilidad (ROI negativo).
 
-🎯 Objetivo: Identificar clientes con alta probabilidad de compra para optimizar la próxima campaña de marketing directo.
+    🎯 Objetivo: Identificar clientes con alta probabilidad de compra para optimizar la próxima campaña de marketing directo.
 
-🛠️ Enfoque: análisis descriptivo, clustering y modelo predictivo con simulación de ROI.
+    🛠️ Enfoque: análisis descriptivo, clustering y modelo predictivo con simulación de ROI.
 
 
 🟨 Identificación de 4 Clusters Estratégicos
@@ -23,11 +23,11 @@
 
 🟩 Predicción de probabilidad de compra por cliente
 
-📊 Modelo: XGBoost entrenado con variables sociodemográficas y de comportamiento.
+    📊 Modelo: XGBoost entrenado con variables sociodemográficas y de comportamiento.
 
-🧠 Métricas: AUC > 0.85, F1 > 0.60 (alto desempeño).
+    🧠 Métricas: AUC > 0.85, F1 > 0.60 (alto desempeño).
 
-🏷️ Cada cliente recibe un score de propensión de compra entre 0 y 1.
+    🏷️ Cada cliente recibe un score de propensión de compra entre 0 y 1.
 
 
 🟧 Simulación de ROI en función del score
@@ -42,12 +42,12 @@
 
 🟪 Streamlit App para gestión de campañas
 
-🔍 Visualización dinámica de segmentos y scores
+    🔍 Visualización dinámica de segmentos y scores
 
-🧮 Simulación de ROI en tiempo real
+    🧮 Simulación de ROI en tiempo real
 
-🎛️ Filtros por fecha, cluster, score
+    🎛️ Filtros por fecha, cluster, score
 
-✅ Herramienta lista para toma de decisiones por marketing
+    ✅ Herramienta lista para toma de decisiones por marketing
 
 ![alt text](data/2025-05-10-08-19-18.gif)
