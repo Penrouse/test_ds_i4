@@ -50,4 +50,4 @@
 
 ✅ Herramienta lista para toma de decisiones por marketing
 
-![alt text](2025-05-10-08-19-18.gif)
+![alt text](data/2025-05-10-08-19-18.gif)
